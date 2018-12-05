@@ -1,4 +1,4 @@
-# Robot@HOme meeting point
+# Robot@Home meeting point
 
 Meeting point for the Robot@Home dataset users!
 
